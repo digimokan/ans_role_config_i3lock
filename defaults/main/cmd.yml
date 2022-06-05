@@ -1,5 +1,5 @@
 # screen locking colors
-wm_window_colors:
+i3lock_colors:
   bg_inactive: '#243045'
 
 # command to execute to start i3lock and lock the screen
