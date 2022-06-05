@@ -1,0 +1,7 @@
+- name: "Install the 'i3lock' package"
+  ansible.builtin.package:
+    name: i3lock
+    state: present
+  become: true
+  become_user: root
+

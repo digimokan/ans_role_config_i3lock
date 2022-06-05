@@ -1,0 +1,3 @@
+- name: "Install i3lock"
+  ansible.builtin.include_tasks: install/main.yml
+
