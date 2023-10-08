@@ -54,7 +54,7 @@ Install and configure the i3lock screen locker.
        - name: "Install and configure the i3lock screen locker"
          ansible.builtin.include_role:
            name: ans_role_config_i3lock
-           public: yes
+           public: true
    ```
 
 ## Role Options
